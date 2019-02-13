@@ -1,0 +1,78 @@
+html {
+  background-color: #E7E6E1;
+}
+
+.layout-div {
+	margin: 3rem auto;
+	max-width: 700px;
+	padding: 0 1rem;
+}
+
+.navbar-ul {
+	display: flex !important;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.navbar-link {
+  font-size: 20px;
+	font-weight: bold;
+	position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-bottom: 8px;
+}
+
+.about-interests-list {
+  display: flex !important;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.about-interests-list li {
+  list-style: none;
+}
+
+.archive-post-div {
+  margin-bottom: 20px !important;
+}
+
+.archive-post-link {
+  text-decoration: none;
+}
+
+.archive-post-date {
+  display: block;
+  font-size: 50%;
+  margin-top: 5px;
+  color: #1EAFED !important;
+}
+
+.archive-post-excerpt {
+
+}
+
+.about-horizontal-rule {
+  position: absolute;
+  top: 170px;
+  height: 4px;
+  width: 15%;
+  background-color: #1EAFED;
+}
+
+.about-email {
+  text-decoration: none;
+}
+
+.about-email:hover {
+  color: #1EAFED;
+  text-shadow: 0.5px 1px #666;
+}
+
+.blog-post-date {
+	display: block;
+  font-size: 50%;
+  margin-top: 5px;
+  color: #1EAFED !important;
+}
