@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
+import Social from "./social.js";
 
 const ListLink = props => (
   <li style={{ display: "inline-block", marginRight: "1rem"}}>
@@ -12,6 +13,7 @@ export default Navbar => (
     <ul className="navbar-ul">
       <ListLink to="/">ARCHIVE</ListLink>
       <ListLink to="/about">ABOUT</ListLink>
+      <Social />
     </ul>
   </div>
 )

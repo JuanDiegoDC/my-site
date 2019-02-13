@@ -49,8 +49,17 @@ html {
   color: #1EAFED !important;
 }
 
-.archive-post-excerpt {
+.social-list {
+	position: absolute;
+	display: flex;
+	margin-left: 372px;
+}
 
+.social-list li {
+	list-style: none;
+	position: relative;
+	display: flex;
+	margin: 5px;
 }
 
 .about-horizontal-rule {

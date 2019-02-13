@@ -13,7 +13,6 @@ export default () => (
     </p>
     <p>
       If you want to get in touch, send me an email: <a className="about-email" href="mailto:jddonneys@gmail.com">jddonneys@gmail.com</a>
-      Or connect with me on Linkedin,
     </p>
     <div>
       <h4> Interests: </h4>

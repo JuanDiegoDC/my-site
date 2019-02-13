@@ -12,12 +12,15 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.15",
+    "@fortawesome/free-solid-svg-icons": "^5.7.2",
     "gatsby": "^2.0.118",
     "gatsby-plugin-typography": "^2.2.7",
     "gatsby-source-filesystem": "^2.0.20",
     "gatsby-transformer-remark": "^2.2.4",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
+    "react-icons": "^3.4.0",
     "react-typography": "^0.16.18",
     "typography": "^0.16.18",
     "typography-theme-funston": "^0.16.18",
