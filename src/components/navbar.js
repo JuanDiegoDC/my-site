@@ -13,7 +13,8 @@ export default Navbar => (
     <ul className="navbar-ul">
       <ListLink to="/">ARCHIVE</ListLink>
       <ListLink to="/about">ABOUT</ListLink>
-      <Social />
+
     </ul>
+    <Social />
   </div>
 )

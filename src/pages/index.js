@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
 
+
 const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
