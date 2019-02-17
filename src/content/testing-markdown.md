@@ -101,8 +101,6 @@ Block code "fences"
 Sample text here...
 ```
 
-The following code should implement PrismJS's Syntax highlighting, however it does not render the way it is expected to.
-
 ```javascript
 // In your gatsby-config.js
 plugins: [
