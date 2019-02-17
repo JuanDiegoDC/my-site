@@ -82,12 +82,12 @@ body {
   text-shadow: 0.5px 1px #666;
 }
 
-.about-colophone {
+.about-colophon {
 	text-decoration: none;
 	font-style: italic;
 }
 
-.about-colophone:hover {
+.about-colophon:hover {
 	color: #1EAFED;
   text-shadow: 0.5px 1px #666;
 }

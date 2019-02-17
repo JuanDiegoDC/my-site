@@ -18,7 +18,7 @@ export default () => (
       I enjoy thinking about things with a particular affinity for thinking about thinking things.
     </p>
     <p>
-      Lately, I have succumbed to the idea that the most feasible way to create an artificially intelligent agent is via the combination of evermore efficient statistical algorithms and higher computational power.
+      Lately, I have succumbed to the idea that the most feasible way to create an artificially intelligent agent is through the combination of evermore efficient statistical algorithms and higher computational power.
     </p>
     <p>
       Particularly, I have begun to delve into the field of Deep Reinforcement Learning and I hope that I can share some steps of my learning journey on here.
@@ -27,7 +27,7 @@ export default () => (
       If you want to get in touch, send me an email: <a className="about-email" href="mailto:jddonneys@gmail.com">jddonneys@gmail.com</a>
     </p>
     <p>
-      If you're interested in how this site was made, please head over to the <Link to="/colophone" className="about-colophone">colophone</Link>.
+      If you're interested in how this site was made, please head over to the <Link to="/colophon" className="about-colophon">colophon</Link>.
     </p>
     <div>
       <h4> Interests: </h4>
