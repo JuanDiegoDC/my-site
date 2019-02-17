@@ -38,7 +38,13 @@ plugins: [
         }
       }
     ],
-  }
+    }
+  },
+  {
+  resolve: `gatsby-plugin-google-analytics`,
+        options: {
+          trackingId: "UA-110263445-2",
+        },
   }
 ],
 }
