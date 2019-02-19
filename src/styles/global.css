@@ -8,32 +8,6 @@ body {
 	padding: 0 1rem;
 }
 
-.navbar-ul {
-	display: flex !important;
-	margin-left: 0px;
-	margin-top: 0px;
-}
-
-.navbar-link {
-  font-size: 20px;
-	font-weight: bold;
-	position: relative;
-  text-decoration: none;
-  text-transform: uppercase;
-  padding-bottom: 8px;
-}
-
-.about-interests-list {
-  display: flex !important;
-  justify-content: space-between;
-  margin-top: 10px;
-  margin-left: 0px;
-}
-
-.about-interests-list li {
-  list-style: none;
-}
-
 .archive-post-div {
   margin-bottom: 20px !important;
 }
@@ -62,40 +36,6 @@ body {
 	position: relative;
 	display: flex;
 	margin: 5px;
-}
-
-.about-horizontal-rule {
-  position: absolute;
-  top: 170px;
-  height: 4px;
-  width: 15%;
-  background-color: #1EAFED;
-}
-
-.about-email {
-  text-decoration: none;
-	font-style: italic;
-}
-
-.about-email:hover {
-  color: #1EAFED;
-  text-shadow: 0.5px 1px #666;
-}
-
-.about-colophon {
-	text-decoration: none;
-	font-style: italic;
-}
-
-.about-colophon:hover {
-	color: #1EAFED;
-  text-shadow: 0.5px 1px #666;
-}
-
-.about-picture {
-	float: right;
-	max-width: 350px;
-	border-radius: 50%;
 }
 
 .blog-post-date {

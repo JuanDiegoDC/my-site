@@ -19,6 +19,9 @@ export default class Projects extends Component {
       <p>
       Apologies for the current lack of documentation. Please reach out and I will be more than happy to answer any of your questions.
       </p>
+      <p>
+      You can also find some of my other work on <a className={styles.a} href="https://github.com/JuanDiegoDC">GitHub</a>.
+      </p>
       </div>
       </Layout>
     )

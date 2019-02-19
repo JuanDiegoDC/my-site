@@ -10,7 +10,7 @@ title: Adam's Rule & Eve's Rule
 
 What does religion have to do with statistics? Actually, quite a lot.
 
-But, this time around, the Biblical Names of the "Rule's" we will be covering are far removed from any religious aura. In reality, the terms originate from a famous UC Berkeley Professor's assumption that these statistical facts were so primal and well-known that they could be affiliated with the famous characters from the Genesis.
+But, this time around, the Biblical Names of the "Rule's" we will be covering are far removed from any religious commentary. In reality, the terms originate from a famous UC Berkeley Professor's assumption that these statistical facts were so primal and well-known that they could be affiliated with the famous characters from the Genesis.
 
 The reason why I will be using these names is simply due to their mnemonic utility.
 
