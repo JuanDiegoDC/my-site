@@ -1,6 +1,8 @@
 import React, { Component } from "react"
 import Layout from "../components/layout.js"
-import "./colophon.css"
+import styles from "./colophon.module.css"
+
+console.log(styles)
 
 export default class Colophon extends Component {
   render() {
@@ -12,13 +14,13 @@ export default class Colophon extends Component {
       This site was written in the lingua franca of the Internet, that is: JavaScript. Furthermore, a lot of Open Source Software was utilized:
       </p>
       <ul>
-        <li><a href="https://www.gatsbyjs.org/">GatsbyJS</a> is my static site generator.</li>
-        <li><a href="https://reactjs.org/">ReactJS</a> is my UI development framework.</li>
-        <li><a href="https://graphql.org/learn/">GraphQL</a> is used to handle the site metadata.</li>
-        <li><a href="https://kyleamathews.github.io/typography.js/">TypographyJS</a> is the toolkit reponsible for the fonts you are reading.</li>
+        <li><a className={styles.a} href="https://www.gatsbyjs.org/">GatsbyJS</a> is my static site generator.</li>
+        <li><a className={styles.a} href="https://reactjs.org/">ReactJS</a> is my UI development framework.</li>
+        <li><a className={styles.a} href="https://graphql.org/learn/">GraphQL</a> is used to handle the site metadata.</li>
+        <li><a className={styles.a} href="https://kyleamathews.github.io/typography.js/">TypographyJS</a> is the toolkit reponsible for the fonts you are reading.</li>
       </ul>
       <p>
-      The site is hosted on <a href="https://www.netlify.com/">Netlify</a> and you can access the source code on <a href="https://github.com/JuanDiegoDC/my-site">GitHub</a>.
+      The site is hosted on <a className={styles.a} href="https://www.netlify.com/">Netlify</a> and you can access the source code on <a className={styles.a} href="https://github.com/JuanDiegoDC/my-site">GitHub</a>.
       </p>
       <p>
       Bear in mind that this site is a work in progress and by consequence everything is subject to change.

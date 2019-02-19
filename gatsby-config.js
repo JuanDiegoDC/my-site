@@ -3,6 +3,7 @@ siteMetadata: {
     title: 'My Site',
 },
 plugins: [
+  `gatsby-plugin-sharp`,
   {
   resolve: `gatsby-plugin-typography`,
   options: {
@@ -28,6 +29,12 @@ plugins: [
           }
       },
       {
+        resolve: `gatsby-remark-images`,
+        options: {
+          maxWidth: 590,
+        },
+      },
+      {
         resolve: `gatsby-remark-prismjs`,
         options: {
           classPrefix: "language-",
@@ -45,6 +52,6 @@ plugins: [
         options: {
           trackingId: "UA-110263445-2",
         },
-  }
+  },
 ],
 }

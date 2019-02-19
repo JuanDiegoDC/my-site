@@ -15,7 +15,7 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <h1>Archive</h1>
+      <h1>ARCHIVE</h1>
       {Posts}
     </Layout>
   )

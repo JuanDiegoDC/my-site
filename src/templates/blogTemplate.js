@@ -3,6 +3,8 @@ import Layout from "../components/layout";
 import { graphql } from "gatsby";
 import { DiscussionEmbed } from "disqus-react";
 
+import "katex/dist/katex.min.css";
+
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
