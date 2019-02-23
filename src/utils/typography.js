@@ -1,7 +1,6 @@
 import Typography from "typography"
-import irvingTheme from "typography-theme-irving";
+import moragaTheme from "typography-theme-irving";
 
-
-const typography = new Typography(irvingTheme)
+const typography = new Typography(moragaTheme)
 
 export default typography

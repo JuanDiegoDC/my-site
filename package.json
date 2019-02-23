@@ -35,7 +35,8 @@
     "typography": "^0.16.18",
     "typography-theme-funston": "^0.16.18",
     "typography-theme-irving": "^0.16.18",
-    "typography-theme-moraga": "^0.16.18"
+    "typography-theme-moraga": "^0.16.18",
+    "typography-theme-wordpress-2011": "^0.16.18"
   },
   "repository": {
     "type": "git",
